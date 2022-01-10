@@ -46,14 +46,14 @@ function createFB(face, card, element){
         elementFace.appendChild(elementIcon);
     }
     else{
-        elementFace.innerHTML = "nDEV";
+        let elementIcon = document.createElement("img");
+        elementIcon.src = "./assets/img/desc.png"
+        elementFace.appendChild(elementIcon);
     }
     element.appendChild(elementFace);
 
 }
-//girar a carta
 function flipCard(){
-    //teste para ver se da pra colocar carta
     if(game.setCard(this.id)){
 
         this.classList.add("flip");

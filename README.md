@@ -1,4 +1,17 @@
-# Matching-game-crypto
- Jogo da memoria com Criptomoedas\
- Matching game with cryptocurrencies\
- [Game page](https://natha6dev.github.io/matching-game-crypto/ "matching game")
+
+# 🃏 Jogo da Memória com Criptomoedas
+Trabalho de estudo durante o aprendizado...
+
+
+
+## 🚀 Sobre mim
+Sou um "Dropout" de Engenharia de Computação (UFPEL) e atualmente foco meus estudos para me tornar um Desenvolvedor Web FullStack...
+
+
+## 👨‍💻 Tecnologias utilizadas
+HTML, CSS e Javascript
+
+
+
+## 🎮 Página do Jogo
+[Link](https://natha6dev.github.io/matching-game-crypto/ "matching game")

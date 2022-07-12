@@ -14,4 +14,4 @@ HTML, CSS e Javascript
 
 
 ## 🎮 Página do Jogo
-[Link](https://natha6dev.github.io/matching-game-crypto/ "matching game")
+[Link](https://nathahernandez.github.io/matching-game-crypto/ "matching game")
